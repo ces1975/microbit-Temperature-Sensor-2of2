@@ -3,6 +3,3 @@ radio.onReceivedNumber(function (receivedNumber) {
 })
 basic.showString("\"RECEIVER\"")
 radio.setGroup(6)
-basic.forever(function () {
-	
-})
